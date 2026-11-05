@@ -53,6 +53,7 @@ PACKAGES="$PACKAGES luci-theme-argon"
 PACKAGES="$PACKAGES luci-app-argon-config"
 PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-passwall2-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
 #25.12
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
